@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iseseisev</title>
+    
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://arcoval.eu/wp-content/uploads/2016/04/carrots-300x300.png" alt="porgand">
+            <h1>Palja Kurgi blogi</h1>
+        </div>
+    </div>
+
+
+
+    <div class="menu">
+        <ul>
+            <li> <a href="#">Avaleht</a></li>
+            <li> <a href="#">Teenused</a></li>
+            <li> <a href="#">Kontakt</a></li>
+        </ul>
+    </div>
+    <table>
+        <thead>
+        <tr>
+            <td></td>
+            <td>esimene</td>
+            <td>teine</td>
+            <td>Kolmas</td>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td></td>
+            <td><img src="https://www.wepc.com/wp-content/uploads/2021/09/pikachu-300x300-1.jpeg" alt="Portugal's flag"></td>
+            <td><img src="https://i.pinimg.com/474x/51/cd/3a/51cd3aea2b0852fd4f5e98ac51eb074b.jpg" alt="Iceland's flag"></td>
+            <td><img src= "https://www.iso.org/files/live/sites/isoorg/files/news/News_archive/2017/08/Ref2213/Ref2213.jpg/thumbnails/300x300" alt="ushfushfushf"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi blanditiis nulla ipsam ipsum incidunt. Quia est quo nesciunt, esse architecto similique provident cumque ipsa debitis temporibus eveniet neque natus quidem?<br><a href="#">Loe edasi</a></br></td>
+            <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi blanditiis nulla ipsam ipsum incidunt. Quia est quo nesciunt, esse architecto similique provident cumque ipsa debitis temporibus eveniet neque natus quidem?<br><a href="#">Loe edasi</a></br></td>
+            <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi blanditiis nulla ipsam ipsum incidunt. Quia est quo nesciunt, esse architecto similique provident cumque ipsa debitis temporibus eveniet neque natus quidem?<a href="#">Loe edasi</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+    </tbody>
+    </table>
+    <div class="footer">
+        <p>&copy; Trump 2023</p>
+    </div>
+</body>
+</html>
