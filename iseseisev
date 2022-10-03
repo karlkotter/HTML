@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Iseseisev</title>
-    
 </head>
 <body>
     <div class="container">
@@ -14,49 +13,54 @@
             <h1>Palja Kurgi blogi</h1>
         </div>
     </div>
-
-
-
     <div class="menu">
-        <ul>
-            <li> <a href="#">Avaleht</a></li>
-            <li> <a href="#">Teenused</a></li>
-            <li> <a href="#">Kontakt</a></li>
-        </ul>
+        <hr>
+        
+            
+            <a href="#">Avaleht |</a><a href="#"> Teenused |</a><a href="#"> Kontakt</a>      
+            
+        
+        <hr>
     </div>
     <table>
         <thead>
         <tr>
             <td></td>
-            <td>esimene</td>
-            <td>teine</td>
-            <td>Kolmas</td>
+            <td><h1>esimene postitus</h1></td>
+            <td><h1>teine postitus</h1></td>
+            <td><h1>kolmas postitus</h1></td>
         </tr>
         </thead>
         <tbody>
-        <tr>
+            <tr>
             <td></td>
             <td><img src="https://www.wepc.com/wp-content/uploads/2021/09/pikachu-300x300-1.jpeg" alt="Portugal's flag"></td>
             <td><img src="https://i.pinimg.com/474x/51/cd/3a/51cd3aea2b0852fd4f5e98ac51eb074b.jpg" alt="Iceland's flag"></td>
-            <td><img src= "https://www.iso.org/files/live/sites/isoorg/files/news/News_archive/2017/08/Ref2213/Ref2213.jpg/thumbnails/300x300" alt="ushfushfushf"></td>
+            <td><img src= "https://www.iso.org/files/live/sites/isoorg/files/news/News_archive/2017/08/Ref2213/Ref2213.jpg/thumbnails/300x300" alt="ushfushfushf"></td>   
         </tr>
         <tr>
             <td></td>
-            <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi blanditiis nulla ipsam ipsum incidunt. Quia est quo nesciunt, esse architecto similique provident cumque ipsa debitis temporibus eveniet neque natus quidem?<br><a href="#">Loe edasi</a></br></td>
-            <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi blanditiis nulla ipsam ipsum incidunt. Quia est quo nesciunt, esse architecto similique provident cumque ipsa debitis temporibus eveniet neque natus quidem?<br><a href="#">Loe edasi</a></br></td>
-            <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi blanditiis nulla ipsam ipsum incidunt. Quia est quo nesciunt, esse architecto similique provident cumque ipsa debitis temporibus eveniet neque natus quidem?<a href="#">Loe edasi</a></td>
+            <td><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202110facebooklogosocialsocialmedia-115707_115594.png" width="40" height="40" alt="esimene"><img src="https://brandlogos.net/wp-content/uploads/2016/11/twitter-icon-square-logo-preview.png" width="40" height="40" alt="teine"><img src="https://acorjordan.org/wp-content/uploads/2019/11/linkedin-logo.png" width="40" height="40" alt="kolmas"></td>
+            <td><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202110facebooklogosocialsocialmedia-115707_115594.png" width="40" height="40" alt="esimene"><img src="https://brandlogos.net/wp-content/uploads/2016/11/twitter-icon-square-logo-preview.png" width="40" height="40" alt="teine"><img src="https://acorjordan.org/wp-content/uploads/2019/11/linkedin-logo.png" width="40" height="40" alt="kolmas"></td>
+            <td><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202110facebooklogosocialsocialmedia-115707_115594.png" width="40" height="40" alt="esimene"><img src="https://brandlogos.net/wp-content/uploads/2016/11/twitter-icon-square-logo-preview.png" width="40" height="40" alt="teine"><img src="https://acorjordan.org/wp-content/uploads/2019/11/linkedin-logo.png" width="40" height="40" alt="kolmas"></td>
         </tr>
         <tr>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi blanditiis nulla ipsam ipsum incidunt. Quia est quo nesciunt, esse architecto similique provident cumque ipsa debitis temporibus eveniet neque natus quidem?</td>
+            <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi blanditiis nulla ipsam ipsum incidunt. Quia est quo nesciunt, esse architecto similique provident cumque ipsa debitis temporibus eveniet neque natus quidem?</td>
+            <td>Lorem ipsum dolor sit amet consedgss fctaetur, adipisicing elit. Quasi blanditiis nulla ipsam ipsum incidunt. Quia est quo nesciunt, esse architecto similique provident cumque ipsa debitis temporibus eveniet neque natus quidem?</td>
         </tr>
-
+        <tr>
+            <td></td>
+            <td><a href="#">Loe edasi</a></td>
+            <td><a href="#">Loe edasi</a></td>
+            <td><a href="#">Loe edasi</a></td>
+        </tr>
     </tbody>
     </table>
     <div class="footer">
-        <p>&copy; Trump 2023</p>
+        <hr>
+        <p><a href="https://www.google.com/search?q=viinerid&client=opera-gx&hs=dXo&sxsrf=ALiCzsYjtmnV06O9Mxq9joio9SuzqGpaHw:1664820413225&source=lnms&tbm=isch&sa=X&ved=2ahUKEwib_OCq08T6AhVKnKQKHZ4aBOUQ_AUoAXoECAIQAw&biw=1495&bih=746&dpr=1.25">Paljas Viiner 2022</a></p>
     </div>
 </body>
 </html>
